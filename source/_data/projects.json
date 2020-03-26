@@ -1,0 +1,42 @@
+[
+    {
+       "name":"APP开发汇总",
+       "url":"http://whitelok.github.io/resources/TalkingData-20190629.pdf",
+       "desc":"Personal APP customers records 个人开发的全部APP，以及总用户数统计"
+    },
+    {
+       "name":"Scene Text Localization & Recognition Resources",
+       "url":"https://github.com/whitelok/image-text-localization-recognition",
+       "desc":"A general list of resources to image text localization and recognition 场景文本位置感知与识别的论文资源汇总"
+    },
+    {
+       "name":"Watermark remover",
+       "url":"https://github.com/whitelok/watermark-remover",
+       "desc":"Remove watermark automatically(Just can use for fixed position watermark till now). 自动水印消除算法的实现（目前只支持固定水印位置）。"
+    },
+    {
+       "name":"Wei-Harumi's Electrocardiogram Simulation Model Parallelization Research",
+       "url":"https://github.com/whitelok/electrocardiogram-parallel-computing",
+       "desc":"Wei-Harumi's electrocardiogram simulation model parallelization research Wei-Harumi 心电计算模型并行化研究"
+    },
+    {
+       "name":"tumblr-crawler",
+       "url":"https://github.com/dixudx/tumblr-crawler/graphs/contributors",
+       "desc":"This is a Python script that you can easily download all the photos and videos from your favorite tumblr blogs. 这是一个Python的脚本,配置运行后可以从某些你指定的tumblr博客 下载图片和视频."
+    },
+    {
+       "name":"LDBM Image Background Remover",
+       "url":"https://github.com/whitelok/ldbm-image-background-remover",
+       "desc":"Remove image background automatically with LDBM algorithmn. 基于LDBM的抠图工具。"
+    },
+    {
+       "name":"pyBter",
+       "url":"https://github.com/whitelok/pyBter",
+       "desc":"bter.com API Python wrapper bter.com API Python 封装"
+    },
+    {
+       "name":"DroidController",
+       "url":"https://github.com/whitelok/droid_controller",
+       "desc":"Android Smart Phone Controll Plug Android 手机控制插件"
+    }
+]
