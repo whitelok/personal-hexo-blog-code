@@ -74,7 +74,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 #theme: cactus-dark
 #theme: cactus-white
-theme: cactus
+# theme: cactus
+theme: hexo-theme-cactus-plus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

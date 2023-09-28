@@ -1,0 +1,66 @@
+[
+    {
+        "organization": "Tencent",
+        "section": [
+            {
+                "title": "PCG C++ Committee Member",
+                "time": "Nov 2021 - Now",
+                "content": [
+                    "- Participate in Tencent engineer promotion assessment; Participate in planning Tencent's technical blueprint in AI/ML; Contribute code to the Tencent company level infrastructure."
+                ]
+            },
+            {
+                "title": "Deep Learning Framework Senior Expert",
+                "time": "May 2020 - Now",
+                "content": [
+                    "- Member of Tencent's Hunyuan.",
+                    "- One of the core founders of Tencent PCG's heterogeneous machine learning platform, which focuses on LLM and AIGC for Tencent Zenvideo (智影) and game products.",
+                    "- One of the core founders of Tencent PCG's heterogeneous machine learning platform, Numerous (无量), which focuses on large-scale recommendation model training and inference for QQ, Tencent Video, and QQ Music. Numerous (无量) handle over 10 billion queries per day. Therefore, I was promoted to T11 within 11 months of joining Tencent, breaking the departmental record.",
+                    "- Main Architect of international federated learning framework for [GameLoop](https://www.gameloop.com/).",
+                    "- As [HugeCTR](https://github.com/NVIDIA/HugeCTR) contributor, developed in cooperation with the NVIDIA team, broke the world record in performance of the 2020 and 2021 MLPerf training framework.",
+                    "- Award: 2021, 2022 Excellent Contributor in Tencent Open Source Collaboration Project.",
+                    "- Award: 2020, 2022, 2023 Tencent Outstanding Contributor.",
+                    "- Award: 2020 Tencent Excellence in R&D Award.",
+                    "- Award: 2020, 2021, 2022 Tencent Excellent Employee.",
+                    "- Award: 2020 Tencent Open Source Collaboration Award."
+                ]
+            }
+        ]
+    },
+    {
+        "organization": "Alibaba",
+        "section": [
+            {
+                "title": "Deep Learning Platform Engineer",
+                "time": "Oct 2018 - May 2020",
+                "content": [
+                    "- Member of Autopilot project",
+                    "- Developed AI and deep learning platform with: Graph optimization, Pruning, Deep Compression, Quantization, Distillation.",
+                    "- Tuning operators on TVM with Machine Learning Algorithm like boosting, reinforcement learning.",
+                    "- Developed TOPI of NPU.",
+                    "- Research on hardware aware NAS on AutoML-keras."
+                ]
+            }
+        ]
+    },
+    {
+        "organization": "NVIDIA",
+        "section": [
+            {
+                "title": "Deep Learning Software Engineer",
+                "time": "May 2016 - Oct 2018",
+                "content": [
+                    "- Developed part of feature TensorRT (release: 4.0+, RC: 5.0+).",
+                    "- cuDNN performance tuning.",
+                    "- Tuning TensorRT performance with different models.",
+                    "- Weights Quantification and calibration (INT8, INT4).",
+                    "- Work in TensorRT project on DrivePX2, Jetson TX2/TX1 platform with Python and C++.",
+                    "- Work in cuDNN project on DrivePX2, Jetson TX2/TX1 platform with Python and C++.",
+                    "- Deploy models from other frameworks on TensorRT.",
+                    "- Optimize inference speed on GPU.",
+                    "- Develop fast kernel and extra layer plugin."
+                ]
+            }
+        ]
+    }
+]
