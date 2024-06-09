@@ -13,9 +13,10 @@
                 "title": "Deep Learning Framework Senior Expert",
                 "time": "May 2020 - Now",
                 "content": [
-                    "- Member of [Tencent's Hunyuan LLM (混元大语言模型)](https://hunyuan.tencent.com/).",
-                    "- One of the core founders of Tencent PCG's heterogeneous machine learning platform, which focuses on LLM and AIGC for [Tencent Zenvideo (智影)](https://zenvideo.qq.com/) and game products.",
-                    "- One of the core founders of Tencent PCG's heterogeneous machine learning platform, [Numerous (无量)](https://developer.nvidia.com/zh-cn/blog/nvidia-accelerates-tencent-pcg-recommender-system/), which focuses on large-scale recommendation model training and inference for [QQ](https://im.qq.com/index/?from=qqnews), [Tencent Video](https://v.qq.com/), and [QQ Music](https://y.qq.com/). Numerous (无量) handle over 10 billion queries per day.",
+                    "- Founder and main contributor of open source LLM inference engine Ksana(一念): https://github.com/pcg-mlp/KsanaLLM.",
+                    "- Member of Tencent's Hunyuan(混元) LLM as Inference engine developer for LLM model with NVIDIA GPU and Huawei Ascend NPU.",
+                    "- One of the core founders heterogeneous inference engine, which focuses on LLM and Stable Diffusion inference accelerate for Tencent Zenvideo(智影), QQ AI Agents(QQ AI智能体) and game products.",
+                    "- One of the core founders of Tencent PCG's heterogeneous machine learning platform, Numerous (无量), which focuses on large-scale recommendation model training and inference for QQ, Tencent Video, and QQ Music. Numerous (无量) handle over 10 billion queries per day.",
                     "- Main Architect of international federated learning framework for [GameLoop](https://www.gameloop.com/).",
                     "- As [HugeCTR](https://github.com/NVIDIA/HugeCTR) contributor, [developed in cooperation with the NVIDIA team](https://developer.nvidia.com/zh-cn/blog/merlin-hugectr-hierarchical-parameter-server-intro/), broke the world record in performance of the 2020 and 2021 MLPerf training framework.",
                     "- Award: 2021, 2022 Excellent Contributor in Tencent Open Source Collaboration Project.",
