@@ -56,7 +56,7 @@ OK计算做好了，那么调度呢，并行优化呢，没看见你有写嘛
 
 优化思想如下：
 
-![IMG_2591](https://github.com/whitelok/whitelok.github.com/raw/master/resources/tvm-tutorials-lession-3-1.JPG)
+![tvm-tutorials-lession-3-1.JPG](https://github.com/whitelok/whitelok.github.com/raw/master/resources/tvm-tutorials-lession-3-1.JPG?raw=true)
 
 即多个thread并发执行，每个thread处理不同的行
 
