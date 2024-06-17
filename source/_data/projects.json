@@ -2,17 +2,17 @@
    {
       "name":"Ksana LLM Inference Engine(一念LLM推理引擎)",
       "url":"https://github.com/pcg-mlp/KsanaLLM",
-      "desc":"LLM Inference Engine for NVIDIA GPU and Huawei Ascend NPU"
+      "desc":"LLM Inference Engine for NVIDIA GPU and Huawei Ascend NPU."
    },
    {
        "name":"APP开发汇总",
        "url":"http://whitelok.github.io/resources/TalkingData-20190629.pdf",
-       "desc":"Personal APP customers records 个人开发的全部APP，以及总用户数统计"
+       "desc":"Personal APP customers records 个人开发的全部APP，以及总用户数统计。"
     },
     {
        "name":"Scene Text Localization & Recognition Resources",
        "url":"https://github.com/whitelok/image-text-localization-recognition",
-       "desc":"A general list of resources to image text localization and recognition 场景文本位置感知与识别的论文资源汇总"
+       "desc":"A general list of resources to image text localization and recognition. 场景文本位置感知与识别的论文资源汇总。"
     },
     {
        "name":"Watermark remover",
@@ -22,7 +22,7 @@
     {
        "name":"Wei-Harumi's Electrocardiogram Simulation Model Parallelization Research",
        "url":"https://github.com/whitelok/electrocardiogram-parallel-computing",
-       "desc":"Wei-Harumi's electrocardiogram simulation model parallelization research Wei-Harumi 心电计算模型并行化研究"
+       "desc":"Wei-Harumi's electrocardiogram simulation model parallelization research Wei-Harumi. 心电计算模型并行化研究。"
     },
     {
        "name":"tumblr-crawler",
@@ -37,11 +37,11 @@
     {
        "name":"pyBter",
        "url":"https://github.com/whitelok/pyBter",
-       "desc":"bter.com API Python wrapper bter.com API Python 封装"
+       "desc":"bter.com API Python wrapper. bter.com API Python 封装。"
     },
     {
        "name":"DroidController",
        "url":"https://github.com/whitelok/droid_controller",
-       "desc":"Android Smart Phone Controll Plug Android 手机控制插件"
+       "desc":"Android Smart Phone Controll Plug. Android 手机控制插件。"
     }
 ]
