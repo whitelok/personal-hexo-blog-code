@@ -1,5 +1,10 @@
 [
-    {
+   {
+      "name":"Ksana LLM Inference Engine(一念LLM推理引擎)",
+      "url":"https://github.com/pcg-mlp/KsanaLLM",
+      "desc":"LLM Inference Engine for NVIDIA GPU and Huawei Ascend NPU"
+   },
+   {
        "name":"APP开发汇总",
        "url":"http://whitelok.github.io/resources/TalkingData-20190629.pdf",
        "desc":"Personal APP customers records 个人开发的全部APP，以及总用户数统计"
